@@ -15,3 +15,6 @@ https://medium.com/@bhattbhavesh91/the-mystery-of-n-components-in-pca-a0431ee995
 Hypothesis - https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/
 
 Data Exploration - https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+
+Imbalanced Classes - https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+
